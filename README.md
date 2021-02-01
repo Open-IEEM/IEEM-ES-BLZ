@@ -69,11 +69,11 @@ showing the data needs of each of the four InVEST models (Table 1).
 
 **Figure 1.** Contents of each country’s data packet.
 
-<img src="media/image1.png" style="width:4.41667in;height:2.54005in" />
+<img src="readme_media/image1.png" style="width:4.41667in;height:2.54005in" />
 
 **Figure 2.** Sample data descriptor sheet for Argentina.
 
-<img src="media/image2.png" style="width:5.94595in;height:7.25138in" />
+<img src="readme_media/image2.png" style="width:5.94595in;height:7.25138in" />
 
 **Table 1.** Data needs for each of the four InVEST models (also
 contained within each data descriptor sheet). For additional data needs,
